@@ -1,0 +1,10 @@
+addAssignees: author
+
+addReviewers: true
+reviewers:
+  - zmrdltl
+  - moonwhalesKR
+  - Harry-Cho
+numberOfReviewers: 0
+
+runOnDraft: true
