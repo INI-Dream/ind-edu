@@ -1,8 +1,8 @@
-// src/App.tsx
 import React from 'react'
+import MainComponent from './components/Main'
 
 const App = () => {
-  return <h1>Hello, React with TypeScript on the </h1>
+  return <MainComponent />
 }
 
 export default App
